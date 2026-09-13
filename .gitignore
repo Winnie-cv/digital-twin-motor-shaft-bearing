@@ -4,8 +4,13 @@ __pycache__/
 .venv/
 venv/
 
-# Generated raw datasets
+# Generated datasets
 data/raw/
+data/robustness_test/
+data/physics_robustness/
 
-# Generated log files
+# Generated processed data
+data/processed/*.csv
+
+# Generated logs
 *.log
